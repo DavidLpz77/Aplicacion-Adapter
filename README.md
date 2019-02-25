@@ -1,2 +1,5 @@
 # Aplicacion-Adapter
-Adapter
+
+Con la letra "z" lanza bombas
+
+
